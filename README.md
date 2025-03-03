@@ -60,9 +60,3 @@ To improve accuracy and usability, we:
 - Fine-tune the model with a **larger dataset** to improve accuracy.
 - Enhance **feedback quality** for better educational value.
 - Improve handling of **idiomatic expressions** and **sentence restructuring**.
-
-### Running the Model
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/GrammarCorrection.git
-   cd GrammarCorrection
