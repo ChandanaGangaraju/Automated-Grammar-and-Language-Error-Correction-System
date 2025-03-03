@@ -61,14 +61,6 @@ To improve accuracy and usability, we:
 - Enhance **feedback quality** for better educational value.
 - Improve handling of **idiomatic expressions** and **sentence restructuring**.
 
-## Installation & Usage
-
-### Prerequisites
-- Python 3.8+
-- Google Colab (or local environment with GPU)
-- `transformers` library (`pip install transformers`)
-- OpenAI API access
-
 ### Running the Model
 1. Clone the repository:
    ```sh
